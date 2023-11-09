@@ -1,8 +1,8 @@
-# Dialogue 사용 매뉴얼
+# Dialogue란?
 
-### 안녕하세용가륑
+### Dialogue는 CX팀의 빠르고 정확한 고객상담을 돕는 소프트웨어입니다
 
-반갑습니다람쥐
+Dialogue는 여러&#x20;
 
 
 
