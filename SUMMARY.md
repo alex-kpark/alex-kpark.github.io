@@ -13,7 +13,7 @@
 * [Dialogue로 고객 상담하기](dialogue-1/README.md)
   * [추천 응답 확인하기](dialogue-1/undefined.md)
   * [상담로직 변경하기](dialogue-1/undefined-1.md)
-* [상담 데이터 다운받기](undefined/README.md)
+* [상담 데이터 다운받기 (업데이트 예정)](undefined/README.md)
   * [카카오톡 채널에서 데이터 다운받기](undefined/undefined.md)
   * [채널톡에서 데이터 다운받기](undefined/undefined-1.md)
 * [문제가 있으신가요?](undefined-1.md)

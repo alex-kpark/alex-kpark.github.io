@@ -1,5 +1,7 @@
 # 문제가 있으신가요?
 
-Dialogue를 사용법을 잘 모르시겠거나, 문제가 발생하셨나요?
+Dialogue를 사용법을 잘 모르시겠거나, 문제가 발생하셨나요? 아래 방법으로 Dialogue팀을 찾아주세요.
 
-kyungho.dev@gmail.com으로 이메일을 보내주시면, 6시간 안에 답변드리겠습니다.
+> email: kyungho.dev@gmail.com로 문제 상황을 알려주세요
+>
+> slack: `channel-{고객사명}-request` 에서 문제 상황을 알려주세요
