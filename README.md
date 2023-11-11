@@ -1,5 +1,5 @@
 ---
-description: Dialogue는 CX팀의 정확하고 빠른 상담을 돕는 AI소프트웨어입니다
+description: Dialogue는 CX팀의 정확하고 빠른 상담을 돕는 서비스입니다
 ---
 
 # Dialogue란?
