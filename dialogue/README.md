@@ -1,5 +1,16 @@
 ---
 description: Dialogue팀과 함께 진행할 내용
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Dialogue 세팅하기

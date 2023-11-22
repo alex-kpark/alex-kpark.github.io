@@ -1,5 +1,16 @@
 ---
 description: 상담로직을 직접 엑셀 시트에서 수정, 추가, 삭제할 수 있습니다.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 상담로직 변경하기
