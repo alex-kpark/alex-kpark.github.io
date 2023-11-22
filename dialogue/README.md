@@ -10,7 +10,7 @@ layout:
   outline:
     visible: false
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Dialogue 세팅하기
