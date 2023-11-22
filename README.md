@@ -1,5 +1,16 @@
 ---
 description: Dialogue는 CX팀의 정확하고 빠른 상담을 돕는 서비스입니다
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Dialogue란?

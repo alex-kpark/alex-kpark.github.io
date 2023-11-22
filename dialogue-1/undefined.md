@@ -1,5 +1,16 @@
 ---
 description: 상담 문의에 대한 추천 답변을 확인하실 수 있습니다.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 추천 응답 확인하기
