@@ -1,5 +1,5 @@
 ---
-description: Dialogue는 CX팀의 정확하고 빠른 상담을 돕는 서비스입니다
+description: Dialogue는 CX팀의 정확하고 빠른 상담을 돕는 어시스턴트 서비스입니다
 layout:
   title:
     visible: true
